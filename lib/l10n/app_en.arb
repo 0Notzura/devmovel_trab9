@@ -1,0 +1,30 @@
+{
+  "team1": "Team 1",
+  "team2": "Team 2",
+  "freeThrow": "Free Throw",
+  "twoPoints": "2 Points",
+  "threePoints": "3 Points",
+  "undo": "Undo",
+  "score": "Score",
+  "@team1": {
+    "description": "Label for Team 1"
+  },
+  "@team2": {
+    "description": "Label for Team 2"
+  },
+  "@freeThrow": {
+    "description": "Label for Free Throw"
+  },
+  "@twoPoints": {
+    "description": "Label for 2 Points"
+  },
+  "@threePoints": {
+    "description": "Label for 3 Points"
+  },
+  "@undo": {
+    "description": "Label for Undo action"
+  },
+  "@score": {
+    "description": "Label for Score"
+  }
+}

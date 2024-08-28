@@ -1,0 +1,30 @@
+{
+  "team1": "Equipe 1",
+  "team2": "Equipe 2",
+  "freeThrow": "Lance Livre",
+  "twoPoints": "2 Pontos",
+  "threePoints": "3 Pontos",
+  "undo": "Desfazer",
+  "score": "Pontuação",
+  "@team1": {
+    "description": "Rótulo para Equipe 1"
+  },
+  "@team2": {
+    "description": "Rótulo para Equipe 2"
+  },
+  "@freeThrow": {
+    "description": "Rótulo para Lance Livre"
+  },
+  "@twoPoints": {
+    "description": "Rótulo para 2 Pontos"
+  },
+  "@threePoints": {
+    "description": "Rótulo para 3 Pontos"
+  },
+  "@undo": {
+    "description": "Rótulo para ação Desfazer"
+  },
+  "@score": {
+    "description": "Rótulo para Pontuação"
+  }
+}
